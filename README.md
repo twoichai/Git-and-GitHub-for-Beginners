@@ -23,6 +23,6 @@ A: THe management of changes to documents, computer programs, large web sites, a
 - commit -> Save files in Git
 - push -> Upload Git commits to a remote repo, like Github
 - pull -> Download changes from remote repo to local machine (oposite of push) 
-## add -> commit -> push 
+add -> commit -> push 
 Made chamges on local PC -> Ready to put them in Git -> Tell Git to track the changes with "add" save the files in Git with "commit" -> Upload Git to a place like Github (remote repo) with push
----
+
